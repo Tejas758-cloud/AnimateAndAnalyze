@@ -1,4 +1,4 @@
 # AnimateAndAnalyze
-This is my first Git Repository.
+"100 Days of Code: The Complete Python Pro Bootcamp"
 <br>
 Author - Tejas Divase
